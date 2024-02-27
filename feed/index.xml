@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Faizan Digital</title>
+	<atom:link href="https://realfaizanahmed.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://realfaizanahmed.github.io/portfolio/</link>
+	<description></description>
+	<lastBuildDate>Mon, 26 Feb 2024 15:32:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Simplicity is the ultimate UI</title>
+		<link>https://realfaizanahmed.github.io/portfolio/simplicity-is-the-ultimate-ui/</link>
+					<comments>https://realfaizanahmed.github.io/portfolio/simplicity-is-the-ultimate-ui/#respond</comments>
+		
+		<dc:creator><![CDATA[faizan]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2024 15:28:36 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://realfaizanahmed.github.io/portfolio/simplicity-is-the-ultimate-ui/</guid>
+
+					<description><![CDATA[Single Post Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.  penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="91" class="elementor elementor-91">
+				<div class="elementor-element elementor-element-11959c35 e-flex e-con-boxed e-con e-parent" data-id="11959c35" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6f887dc3 elementor-widget-divider--view-line_text elementor-widget-divider--element-align-right elementor-widget elementor-widget-divider" data-id="6f887dc3" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-block-end:0;flex-grow:1;border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-start .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-start .elementor-divider__element{margin-inline-start:0}.elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-end .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-end .elementor-divider__element{margin-inline-end:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<span class="elementor-divider__text elementor-divider__element">
+				Single Post				</span>
+						</span>
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4d3e491a e-flex e-con-boxed e-con e-parent" data-id="4d3e491a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-59e56885 elementor-widget elementor-widget-jkit_post_title" data-id="59e56885" data-element_type="widget" data-widget_type="jkit_post_title.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-title jeg_module_91__65de388d9a0c1" ><h2 class="post-title style-color ">Simplicity is the ultimate UI</h2></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2f28fbbd featured-image elementor-widget elementor-widget-jkit_post_featured_image" data-id="2f28fbbd" data-element_type="widget" data-widget_type="jkit_post_featured_image.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-featured-image jeg_module_91_1_65de388da23c9" ><div class="post-featured-image "><img fetchpriority="high" decoding="async" width="1700" height="1300" src="https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-6.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-6.jpg 1700w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-6-300x229.jpg 300w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-6-1024x783.jpg 1024w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-6-768x587.jpg 768w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-6-1536x1175.jpg 1536w" sizes="(max-width: 1700px) 100vw, 1700px" /></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1ea59d84 elementor-widget elementor-widget-text-editor" data-id="1ea59d84" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6e846306 elementor-widget elementor-widget-text-editor" data-id="6e846306" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-50754c9 elementor-widget elementor-widget-text-editor" data-id="50754c9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare, natoque viverra ut dis rhoncus nam. In laoreet massa faucibus sociis suscipit fames nulla vehicula, senectus eget augue sollicitudin nostra donec per,</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3cf0e87c elementor-widget elementor-widget-text-editor" data-id="3cf0e87c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> Ultricies nunc venenatis sagittis litora natoque risus sodales pellentesque, volutpat consequat proin odio nibh ante vivamus tempus congue, habitasse dapibus nostra aliquet laoreet cum parturient. Vestibulum quisque donec porta nostra metus augue potenti, posuere at faucibus lacinia pulvinar volutpat magna lacus, egestas litora vehicula pharetra interdum diam.</p>						</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-62984524 e-flex e-con-boxed e-con e-parent" data-id="62984524" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2e70c5a9 elementor-widget elementor-widget-html" data-id="2e70c5a9" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>
+    .featured-image img{
+        max-height: 600px;
+        object-fit: cover
+    }
+}
+</style>		</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://realfaizanahmed.github.io/portfolio/simplicity-is-the-ultimate-ui/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Simple Logos Collection</title>
+		<link>https://realfaizanahmed.github.io/portfolio/simple-logos-collection/</link>
+					<comments>https://realfaizanahmed.github.io/portfolio/simple-logos-collection/#respond</comments>
+		
+		<dc:creator><![CDATA[faizan]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2024 15:28:27 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://realfaizanahmed.github.io/portfolio/simple-logos-collection/</guid>
+
+					<description><![CDATA[Single Post Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.  penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="88" class="elementor elementor-88">
+				<div class="elementor-element elementor-element-15e15092 e-flex e-con-boxed e-con e-parent" data-id="15e15092" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-53b5bf0d elementor-widget-divider--view-line_text elementor-widget-divider--element-align-right elementor-widget elementor-widget-divider" data-id="53b5bf0d" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<span class="elementor-divider__text elementor-divider__element">
+				Single Post				</span>
+						</span>
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-346738ff e-flex e-con-boxed e-con e-parent" data-id="346738ff" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-378d3838 elementor-widget elementor-widget-jkit_post_title" data-id="378d3838" data-element_type="widget" data-widget_type="jkit_post_title.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-title jeg_module_88_2_65de388dc8d59" ><h2 class="post-title style-color ">Simple Logos Collection</h2></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a8230aa featured-image elementor-widget elementor-widget-jkit_post_featured_image" data-id="a8230aa" data-element_type="widget" data-widget_type="jkit_post_featured_image.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-featured-image jeg_module_88_3_65de388dc9445" ></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2340d37c elementor-widget elementor-widget-text-editor" data-id="2340d37c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-48b9e821 elementor-widget elementor-widget-text-editor" data-id="48b9e821" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-7d3ac9ef elementor-widget elementor-widget-text-editor" data-id="7d3ac9ef" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare, natoque viverra ut dis rhoncus nam. In laoreet massa faucibus sociis suscipit fames nulla vehicula, senectus eget augue sollicitudin nostra donec per,</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-544ff516 elementor-widget elementor-widget-text-editor" data-id="544ff516" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> Ultricies nunc venenatis sagittis litora natoque risus sodales pellentesque, volutpat consequat proin odio nibh ante vivamus tempus congue, habitasse dapibus nostra aliquet laoreet cum parturient. Vestibulum quisque donec porta nostra metus augue potenti, posuere at faucibus lacinia pulvinar volutpat magna lacus, egestas litora vehicula pharetra interdum diam.</p>						</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-24bc9733 e-flex e-con-boxed e-con e-parent" data-id="24bc9733" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-4abb1467 elementor-widget elementor-widget-html" data-id="4abb1467" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>
+    .featured-image img{
+        max-height: 600px;
+        object-fit: cover
+    }
+}
+</style>		</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://realfaizanahmed.github.io/portfolio/simple-logos-collection/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Minimalist Trends</title>
+		<link>https://realfaizanahmed.github.io/portfolio/minimalist-trends/</link>
+					<comments>https://realfaizanahmed.github.io/portfolio/minimalist-trends/#respond</comments>
+		
+		<dc:creator><![CDATA[faizan]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2024 15:28:17 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://realfaizanahmed.github.io/portfolio/minimalist-trends/</guid>
+
+					<description><![CDATA[Single Post Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.  penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="84" class="elementor elementor-84">
+				<div class="elementor-element elementor-element-23fcee6a e-flex e-con-boxed e-con e-parent" data-id="23fcee6a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-97300ba elementor-widget-divider--view-line_text elementor-widget-divider--element-align-right elementor-widget elementor-widget-divider" data-id="97300ba" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<span class="elementor-divider__text elementor-divider__element">
+				Single Post				</span>
+						</span>
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-26ca15f5 e-flex e-con-boxed e-con e-parent" data-id="26ca15f5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2f60a727 elementor-widget elementor-widget-jkit_post_title" data-id="2f60a727" data-element_type="widget" data-widget_type="jkit_post_title.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-title jeg_module_84_4_65de388de9a74" ><h2 class="post-title style-color ">Minimalist Trends</h2></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7fbf8648 featured-image elementor-widget elementor-widget-jkit_post_featured_image" data-id="7fbf8648" data-element_type="widget" data-widget_type="jkit_post_featured_image.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-featured-image jeg_module_84_5_65de388dea190" ><div class="post-featured-image "><img decoding="async" width="1700" height="1300" src="https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-4.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-4.jpg 1700w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-4-300x229.jpg 300w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-4-1024x783.jpg 1024w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-4-768x587.jpg 768w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-4-1536x1175.jpg 1536w" sizes="(max-width: 1700px) 100vw, 1700px" /></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6b7dd252 elementor-widget elementor-widget-text-editor" data-id="6b7dd252" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2017c4c8 elementor-widget elementor-widget-text-editor" data-id="2017c4c8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2c5cadea elementor-widget elementor-widget-text-editor" data-id="2c5cadea" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare, natoque viverra ut dis rhoncus nam. In laoreet massa faucibus sociis suscipit fames nulla vehicula, senectus eget augue sollicitudin nostra donec per,</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-7634766a elementor-widget elementor-widget-text-editor" data-id="7634766a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> Ultricies nunc venenatis sagittis litora natoque risus sodales pellentesque, volutpat consequat proin odio nibh ante vivamus tempus congue, habitasse dapibus nostra aliquet laoreet cum parturient. Vestibulum quisque donec porta nostra metus augue potenti, posuere at faucibus lacinia pulvinar volutpat magna lacus, egestas litora vehicula pharetra interdum diam.</p>						</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-3a2dd580 e-flex e-con-boxed e-con e-parent" data-id="3a2dd580" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c4e070a elementor-widget elementor-widget-html" data-id="c4e070a" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>
+    .featured-image img{
+        max-height: 600px;
+        object-fit: cover
+    }
+}
+</style>		</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://realfaizanahmed.github.io/portfolio/minimalist-trends/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Site inspiration with Swiss…</title>
+		<link>https://realfaizanahmed.github.io/portfolio/site-inspiration-with-swiss/</link>
+					<comments>https://realfaizanahmed.github.io/portfolio/site-inspiration-with-swiss/#respond</comments>
+		
+		<dc:creator><![CDATA[faizan]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2024 15:28:08 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://realfaizanahmed.github.io/portfolio/site-inspiration-with-swiss/</guid>
+
+					<description><![CDATA[Single Post Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.  penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="80" class="elementor elementor-80">
+				<div class="elementor-element elementor-element-45faf545 e-flex e-con-boxed e-con e-parent" data-id="45faf545" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6c71d933 elementor-widget-divider--view-line_text elementor-widget-divider--element-align-right elementor-widget elementor-widget-divider" data-id="6c71d933" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<span class="elementor-divider__text elementor-divider__element">
+				Single Post				</span>
+						</span>
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-62206fc6 e-flex e-con-boxed e-con e-parent" data-id="62206fc6" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6d5576e2 elementor-widget elementor-widget-jkit_post_title" data-id="6d5576e2" data-element_type="widget" data-widget_type="jkit_post_title.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-title jeg_module_80_6_65de388e18738" ><h2 class="post-title style-color ">Site inspiration with Swiss…</h2></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-116512ec featured-image elementor-widget elementor-widget-jkit_post_featured_image" data-id="116512ec" data-element_type="widget" data-widget_type="jkit_post_featured_image.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-featured-image jeg_module_80_7_65de388e18e3f" ><div class="post-featured-image "><img decoding="async" width="1700" height="1300" src="https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-1.jpg 1700w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-1-300x229.jpg 300w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-1-1024x783.jpg 1024w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-1-768x587.jpg 768w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-1-1536x1175.jpg 1536w" sizes="(max-width: 1700px) 100vw, 1700px" /></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-790a842d elementor-widget elementor-widget-text-editor" data-id="790a842d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-13560430 elementor-widget elementor-widget-text-editor" data-id="13560430" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-46eda85b elementor-widget elementor-widget-text-editor" data-id="46eda85b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare, natoque viverra ut dis rhoncus nam. In laoreet massa faucibus sociis suscipit fames nulla vehicula, senectus eget augue sollicitudin nostra donec per,</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1ed658d6 elementor-widget elementor-widget-text-editor" data-id="1ed658d6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> Ultricies nunc venenatis sagittis litora natoque risus sodales pellentesque, volutpat consequat proin odio nibh ante vivamus tempus congue, habitasse dapibus nostra aliquet laoreet cum parturient. Vestibulum quisque donec porta nostra metus augue potenti, posuere at faucibus lacinia pulvinar volutpat magna lacus, egestas litora vehicula pharetra interdum diam.</p>						</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-3bbc03c4 e-flex e-con-boxed e-con e-parent" data-id="3bbc03c4" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7e9fc4c4 elementor-widget elementor-widget-html" data-id="7e9fc4c4" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>
+    .featured-image img{
+        max-height: 600px;
+        object-fit: cover
+    }
+}
+</style>		</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://realfaizanahmed.github.io/portfolio/site-inspiration-with-swiss/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Contrast in Brand Design</title>
+		<link>https://realfaizanahmed.github.io/portfolio/contrast-in-brand-design/</link>
+					<comments>https://realfaizanahmed.github.io/portfolio/contrast-in-brand-design/#respond</comments>
+		
+		<dc:creator><![CDATA[faizan]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2024 15:27:59 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://realfaizanahmed.github.io/portfolio/contrast-in-brand-design/</guid>
+
+					<description><![CDATA[Single Post Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.  penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="76" class="elementor elementor-76">
+				<div class="elementor-element elementor-element-52e942dc e-flex e-con-boxed e-con e-parent" data-id="52e942dc" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-564d2df8 elementor-widget-divider--view-line_text elementor-widget-divider--element-align-right elementor-widget elementor-widget-divider" data-id="564d2df8" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<span class="elementor-divider__text elementor-divider__element">
+				Single Post				</span>
+						</span>
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-46e01a7c e-flex e-con-boxed e-con e-parent" data-id="46e01a7c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-27e63744 elementor-widget elementor-widget-jkit_post_title" data-id="27e63744" data-element_type="widget" data-widget_type="jkit_post_title.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-title jeg_module_76_8_65de388e3ec5f" ><h2 class="post-title style-color ">Contrast in Brand Design</h2></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-60333278 featured-image elementor-widget elementor-widget-jkit_post_featured_image" data-id="60333278" data-element_type="widget" data-widget_type="jkit_post_featured_image.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-featured-image jeg_module_76_9_65de388e3f3db" ><div class="post-featured-image "><img loading="lazy" decoding="async" width="1700" height="1300" src="https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-3.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-3.jpg 1700w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-3-300x229.jpg 300w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-3-1024x783.jpg 1024w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-3-768x587.jpg 768w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-3-1536x1175.jpg 1536w" sizes="(max-width: 1700px) 100vw, 1700px" /></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5dbf008 elementor-widget elementor-widget-text-editor" data-id="5dbf008" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-550e02fb elementor-widget elementor-widget-text-editor" data-id="550e02fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-561f8aa6 elementor-widget elementor-widget-text-editor" data-id="561f8aa6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare, natoque viverra ut dis rhoncus nam. In laoreet massa faucibus sociis suscipit fames nulla vehicula, senectus eget augue sollicitudin nostra donec per,</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-63220434 elementor-widget elementor-widget-text-editor" data-id="63220434" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> Ultricies nunc venenatis sagittis litora natoque risus sodales pellentesque, volutpat consequat proin odio nibh ante vivamus tempus congue, habitasse dapibus nostra aliquet laoreet cum parturient. Vestibulum quisque donec porta nostra metus augue potenti, posuere at faucibus lacinia pulvinar volutpat magna lacus, egestas litora vehicula pharetra interdum diam.</p>						</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2eb5647d e-flex e-con-boxed e-con e-parent" data-id="2eb5647d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3e9e9bd8 elementor-widget elementor-widget-html" data-id="3e9e9bd8" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>
+    .featured-image img{
+        max-height: 600px;
+        object-fit: cover
+    }
+}
+</style>		</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://realfaizanahmed.github.io/portfolio/contrast-in-brand-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Creativity is nothing but…</title>
+		<link>https://realfaizanahmed.github.io/portfolio/creativity-is-nothing-but/</link>
+					<comments>https://realfaizanahmed.github.io/portfolio/creativity-is-nothing-but/#respond</comments>
+		
+		<dc:creator><![CDATA[faizan]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2024 15:27:47 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://realfaizanahmed.github.io/portfolio/creativity-is-nothing-but/</guid>
+
+					<description><![CDATA[Single Post Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.  penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="72" class="elementor elementor-72">
+				<div class="elementor-element elementor-element-a22bb45 e-flex e-con-boxed e-con e-parent" data-id="a22bb45" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-197c336c elementor-widget-divider--view-line_text elementor-widget-divider--element-align-right elementor-widget elementor-widget-divider" data-id="197c336c" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<span class="elementor-divider__text elementor-divider__element">
+				Single Post				</span>
+						</span>
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1ff5684f e-flex e-con-boxed e-con e-parent" data-id="1ff5684f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-152d37f elementor-widget elementor-widget-jkit_post_title" data-id="152d37f" data-element_type="widget" data-widget_type="jkit_post_title.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-title jeg_module_72_10_65de388e7447d" ><h2 class="post-title style-color ">Creativity is nothing but…</h2></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-49b20477 featured-image elementor-widget elementor-widget-jkit_post_featured_image" data-id="49b20477" data-element_type="widget" data-widget_type="jkit_post_featured_image.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-post-featured-image jeg_module_72_11_65de388e74b88" ><div class="post-featured-image "><img loading="lazy" decoding="async" width="1700" height="1300" src="https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-2.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-2.jpg 1700w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-2-300x229.jpg 300w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-2-1024x783.jpg 1024w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-2-768x587.jpg 768w, https://realfaizanahmed.github.io/portfolio/wp-content/uploads/2024/02/project-2-1536x1175.jpg 1536w" sizes="(max-width: 1700px) 100vw, 1700px" /></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1513c19a elementor-widget elementor-widget-text-editor" data-id="1513c19a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1468bf4e elementor-widget elementor-widget-text-editor" data-id="1468bf4e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-707b9917 elementor-widget elementor-widget-text-editor" data-id="707b9917" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Suscipit odio nostra sem sapien donec feugiat porta ac, massa dictumst tortor diam natoque vestibulum pharetra luctus, vivamus montes nec eros aenean habitant placerat. Ac vestibulum accumsan justo faucibus nunc donec senectus, felis taciti suscipit aliquet velit lacinia, penatibus tellus sem himenaeos vehicula fusce. Justo luctus natoque leo nec quis vivamus, pellentesque nascetur sodales ut eu fermentum, est curabitur faucibus et blandit. Arcu condimentum scelerisque dictumst eget litora sociis posuere, eleifend facilisis habitasse torquent conubia nascetur ornare, natoque viverra ut dis rhoncus nam. In laoreet massa faucibus sociis suscipit fames nulla vehicula, senectus eget augue sollicitudin nostra donec per,</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-358ac199 elementor-widget elementor-widget-text-editor" data-id="358ac199" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> Ultricies nunc venenatis sagittis litora natoque risus sodales pellentesque, volutpat consequat proin odio nibh ante vivamus tempus congue, habitasse dapibus nostra aliquet laoreet cum parturient. Vestibulum quisque donec porta nostra metus augue potenti, posuere at faucibus lacinia pulvinar volutpat magna lacus, egestas litora vehicula pharetra interdum diam.</p>						</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-1ee87da3 e-flex e-con-boxed e-con e-parent" data-id="1ee87da3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-74be35da elementor-widget elementor-widget-html" data-id="74be35da" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>
+    .featured-image img{
+        max-height: 600px;
+        object-fit: cover
+    }
+}
+</style>		</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://realfaizanahmed.github.io/portfolio/creativity-is-nothing-but/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://realfaizanahmed.github.io/portfolio/hello-world/</link>
+					<comments>https://realfaizanahmed.github.io/portfolio/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[faizan]]></dc:creator>
+		<pubDate>Tue, 20 Feb 2024 20:24:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://realfaizanahmed.github.io/portfolio/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://realfaizanahmed.github.io/portfolio/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
